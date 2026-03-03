@@ -7,4 +7,24 @@
 // bigbucket , azure devops 
 
 
-//working repository                            Remote repository (github)
+1. working repository(on system) 
+
+adding the file = goes from working  to staging  area
+(use add command - goes to staging area )
+== staging area
+
+commit -> goes to local repo
+
+2. local repository(on machine virtual, project mapped with git)  
+
+
+
+3.  Remote repository (github)
+
+
+
+git add =working repo  -> staging area
+git commit -m "msg"   ->  staging area  -> local repo 
+
+
+abcd
