@@ -17,13 +17,13 @@ commit -> goes to local repo
 
 2. local repository(on machine virtual, project mapped with git)  
 
-
+push -> goes to  
 
 3.  Remote repository (github)
 
 
 
-git add =working repo  -> staging area
+git add = working repo  -> staging area
 git commit -m "msg"   ->  staging area  -> local repo 
 
 
