@@ -25,6 +25,7 @@ push -> goes to
 
 git add = working repo  -> staging area
 git commit -m "msg"   ->  staging area  -> local repo 
+git push  -> local repo to remote 
 
 
 abcd
